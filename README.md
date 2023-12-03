@@ -67,4 +67,17 @@ Find the Best Value for k Using the PCA Data
 The code in this section used much of the same code as in
 the "Find the Best Value for k Using the Original Data." section.
 
+--------------------------------------------------
+Cluster Cryptocurrencies with K-means Using the PCA Data
+--------------------------------------------------
+
+The code in this section used much of the same code as in
+the "Cluster Cryptocurrencies with K-means 
+Using the Original Data" section.
+
+--------------------------------------------------
+Visualize and Compare the Results
+--------------------------------------------------
+
+Luna from AskBCS helped with the "+" being used to combine plots in this section.
 
