@@ -61,8 +61,10 @@ As did the following formatting in this section:
     height=400
 
 --------------------------------------------------
-Optimize Clusters with Principal Component Analysis.
+Find the Best Value for k Using the PCA Data
 --------------------------------------------------
 
+The code in this section used much of the same code as in
+the "Find the Best Value for k Using the Original Data." section.
 
 
